@@ -1,4 +1,4 @@
-# Insurance Underwriting Portfolio Analysis niggggerrrrrrrrrrrrrr
+# Insurance Underwriting Portfolio Analysis 
 
 ## Project Overview
 
