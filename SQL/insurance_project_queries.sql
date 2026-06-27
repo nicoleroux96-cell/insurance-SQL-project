@@ -2,11 +2,7 @@
 INSURANCE UNDERWRITING SQL PROJECT
 =====================================================
 
-Database: underwriting_project
 Tools: PostgreSQL, pgAdmin, Excel, VS Code
-
-
-
 
 
 #######################################################################################
